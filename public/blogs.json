@@ -1,48 +1,53 @@
 [
     {
+      "author_name": "FaUrCuK MyEo",      
       "id": "123456",
       "cover_image": "https://i.ibb.co/rtXYQY6/images-1.jpg",
       "title": "The Mystery of the Sapphire Stone",
       "author_img": "https://i.ibb.co/34NGZkH/images.jpg",
       "posted_date": "April 10, 2024",
       "reading_time": 12,
-      "hashtag": "#MysteryFiction"
-    },
+      "hashtag": ["#AdventureNovel #Mystery #Fantasy"
+      ]  },
     {
+      "author_name": "Virat Kohli", 
       "id": "789012",
       "cover_image": "https://i.ibb.co/5BsXwWq/images-2.jpg",
       "title": "Secrets of the Forbidden Forest",
       "author_img": "https://i.ibb.co/3BvY2S0/500x500.jpg",
       "posted_date": "April 9, 2024",
       "reading_time": 18,
-      "hashtag": "#AdventureNovel"
-    },
+      "hashtag": ["#JungleAdventure #Exploration #Survival"
+      ] },
     {
+      "author_name": "Fuck You Fuck", 
       "id": "345678",
       "cover_image": "https://i.ibb.co/BgD5VTq/images-3.jpg",
       "title": "The Enigma of Eternity",
       "author_img": "https://i.ibb.co/QCmTTSf/images-8.jpg",
       "posted_date": "April 8, 2024",
       "reading_time": 15,
-      "hashtag": "#Fantasy"
-    },
+      "hashtag":[ "#EnigmaticJourney #Discovery #Suspense #Adventure"
+      ]},
     {
+      "author_name": "Jonathon Fuck", 
       "id": "901234",
       "cover_image": "https://i.ibb.co/3CkGLdZ/images-4.jpg",
       "title": "Echoes of the Past",
       "author_img": "https://i.ibb.co/6J9vG35/images-7.jpg",
       "posted_date": "April 7, 2024",
       "reading_time": 20,
-      "hashtag": "#HistoricalFiction"
-    },
+      "hashtag": ["#ArchaeologicalAdventure #TreasureHunt #Mystery"
+      ] },
     {
+      "author_name": "alicia fuck", 
       "id": "567890",
       "cover_image": "https://i.ibb.co/Y2m03vG/images-5.jpg",
       "title": "Into the Abyss",
       "author_img": "https://i.ibb.co/3mdTnx7/images-6.jpg",
       "posted_date": "April 6, 2024",
       "reading_time": 25,
-      "hashtag": "#ThrillerNovel"
+      "hashtag": ["#IslandMystery #Adventure #Exploration"]
     }
   ]
   
