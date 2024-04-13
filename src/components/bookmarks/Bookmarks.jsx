@@ -18,7 +18,7 @@ const Bookmarks = ({bookmarks, readingTime}) => {
 
                 <div>
                 {
-                bookmarks.map( bookmark => <Bookmark bookmark={bookmark}></Bookmark>)
+                bookmarks.map( (bookmark, idx) => <Bookmark key={idx} bookmark={bookmark}></Bookmark>)
                 }
                 </div>
         </div>
@@ -26,7 +26,7 @@ const Bookmarks = ({bookmarks, readingTime}) => {
 };
 
 Bookmarks.propTypes={
-    Bookmarks: PropTypes.array,
+    bookmarks: PropTypes.array,
     readingTime: PropTypes.number
 }
 export default Bookmarks;
